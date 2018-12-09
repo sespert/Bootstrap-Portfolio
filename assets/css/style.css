@@ -30,8 +30,8 @@ a:hover {
 
 .container {
     background-color: #ffffff;
-  
 }
+
 
 #contPortfolio {
     width: 700px;
@@ -64,10 +64,17 @@ button[type=submit] {
     border-color: #4aaaa5;
 }
 
+.bottomCont {
+    margin-bottom: 70px;
+}
  #footer {
     background-color: #666666;
     font-family: 'Georgia', Times, Times New Roman, serif; 
     color: #ffffff;  
     border-top: 8px solid #4aaaa5;
+    height: 50px;
+   
 }
+
+    
 
